@@ -22,5 +22,7 @@ public class StackAndQueue<E> {
         queues.enqueue(30);
         queues.enqueue(70);
         queues.printQueues();
+        queues.dequeue();
+        queues.printQueues();
     }
 }

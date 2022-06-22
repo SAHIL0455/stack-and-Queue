@@ -12,4 +12,8 @@ public class Queues {
     public void printQueues() {
         System.out.println(queses);
     }
+
+    public void dequeue() {
+        queses.remove();
+    }
 }
