@@ -15,5 +15,6 @@ public class StackAndQueue {
         stack.peak();
         stack.pop();
         stack.displayStack();
+
     }
 }
